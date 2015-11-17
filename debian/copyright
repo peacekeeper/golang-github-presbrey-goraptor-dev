@@ -1,0 +1,15 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: goraptor
+Source: https://github.com/presbrey/goraptor
+
+Files: *
+Copyright: 2014 
+License: LGPL-2.1
+
+Files: debian/*
+Copyright: 2015 Markus Sabadello <markus@projectdanube.org>
+License: LGPL-2.1
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: LGPL-2.1
+TODO
